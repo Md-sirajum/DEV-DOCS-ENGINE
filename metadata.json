@@ -1,0 +1,6 @@
+{
+  "name": "Developer Gateway",
+  "description": "A high-performance premium developer environment gateway and control panel command interface featuring authentic glassmorphic viewports, client security systems, dynamic canvas particles, and custom renderer templates.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
